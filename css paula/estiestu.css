@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+.container{
+    margin: 0 100px;
+}
+
+body{
+
+	background-image: url(../imagenes/black.jpg);
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-color: #000;
+	color: #283747;
+}
+h3{
+    
+	color: #F08080;
+	font-family: "Time New Roman";
+    font-size: 40px;
+    background: #283747;
+}
+footer p{
+    text-align: center;
+    padding: 50px;
+    color: #4A235A ;
+    font-family: sans-serif;
+}
+h2{
+    font-family: cursive;
+    font-size: 20px;
+    color: #BA4A00 ;
+    text-align: center;
+}
+h5{
+    color: #000080;
+	font-family: "Time New Roman";
+    font-size: 40px;
+    background: #CACFD2 ;
+    text-align:  center;
+}
+h4{
+     font-family: cursive;
+    font-size: 50px;
+    color: #F1C40F ;
+    text-align:  center;
+}
+p{
+    font-family: cursive;
+    font-size: 15px;
+    color: #D0D3D4  ;
+    text-align: center;
+}

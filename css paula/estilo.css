@@ -1,0 +1,91 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+figure img{
+    height: 200px;
+}
+.navegacion ul{
+    list-style: none;
+}
+.navegacion ul li{
+    float: left;
+    
+}
+footer{
+    clear: both;
+    height: 200px;
+    border-top: 3px solid #233415;
+    background-color: silver;
+}
+footer p{
+    text-align: center;
+    padding: 90px;
+    color: cornflowerblue;
+    font-family: sans-serif;
+}
+.navegacion{
+    height: 70px;
+    background-image: url(../imagenes/foto.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+
+.btn {
+    
+	box-shadow: 3px 4px 0px 0px #fff;
+	background-color:transparent;
+	border-radius:15px;
+	border:1px solid #68a1c7;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Courier New;
+	font-size:15px;
+	padding:6px 25px;
+	text-decoration:none;
+	text-shadow:2px 1px 2px #3d768a;
+    position: inherit;
+}
+.btn:hover {
+	background-color:transparent;
+}
+.btn:active {
+	position:relative;
+	top:3px;
+}
+.contenedor{
+    margin: 0 100px;
+    
+    
+}
+h2{
+    text-align: left;
+        font-family: 'Comic Sans MS', sans-serif;
+        font-weight: 200;
+        font-size: 1.5em;
+    color: orchid;
+}
+p{
+   text-align: left;
+        font-family: 'bizagi-font', sans-serif;
+        font-weight: 200;
+        font-size: 1em;
+    color: darkslategray;
+}
+h1{
+     text-align: center;
+        font-family: 'Comic Sans MS', sans-serif;
+        font-weight: 200;
+        font-size: 3em;
+    color: midnightblue
+}
+h5{
+     text-align: center;
+        font-family: 'Comic Sans MS', sans-serif;
+        font-weight: 200;
+    font-size: 2em;
+}
